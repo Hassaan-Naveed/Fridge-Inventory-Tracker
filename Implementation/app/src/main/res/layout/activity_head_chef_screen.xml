@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HeadChefScreenActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:minHeight="?attr/actionBarSize"
+        android:elevation="4dp"
+        android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/toolbar">
+
+        <Button
+            android:id="@+id/viewUsersButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="viewItems"
+            android:text="View Items" />
+
+        <Button
+            android:id="@+id/addItemsButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="addItem"
+            android:text="Add Item" />
+
+        <Button
+            android:id="@+id/removeItemsButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="removeItem"
+            android:text="Remove Item" />
+
+        <Button
+            android:id="@+id/restockingButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="manageStock"
+            android:text="Manage Stock" />
+
+        <Button
+            android:id="@+id/userManageButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="managePermissions"
+            android:text="Manage Users" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="completeOrder"
+            android:text="Confirm Order" />
+
+        <Button
+            android:id="@+id/notificationsButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="notifications"
+            android:text="Notifications" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

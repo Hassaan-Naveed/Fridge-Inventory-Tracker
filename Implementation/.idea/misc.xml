@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Documents/Work/Uni Year 3/AAD/Implementation/app/src/main/res/layout/activity_add_item.xml" value="0.55" />
+        <entry key="..\:/Documents/Work/Uni Year 3/AAD/Implementation/app/src/main/res/layout/activity_change_head_chef.xml" value="0.55" />
+        <entry key="..\:/Documents/Work/Uni Year 3/AAD/Implementation/app/src/main/res/layout/activity_change_pin.xml" value="0.5359375" />
+        <entry key="..\:/Documents/Work/Uni Year 3/AAD/Implementation/app/src/main/res/layout/activity_chef_screen.xml" value="0.55" />
+        <entry key="..\:/Documents/Work/Uni Year 3/AAD/Implementation/app/src/main/res/layout/activity_complete_order.xml" value="0.55" />
+        <entry key="..\:/Documents/Work/Uni Year 3/AAD/Implementation/app/src/main/res/layout/activity_create_account.xml" value="0.5359375" />
+        <entry key="..\:/Documents/Work/Uni Year 3/AAD/Implementation/app/src/main/res/layout/activity_delete_user.xml" value="0.55" />
+        <entry key="..\:/Documents/Work/Uni Year 3/AAD/Implementation/app/src/main/res/layout/activity_delivery_login.xml" value="0.55" />
+        <entry key="..\:/Documents/Work/Uni Year 3/AAD/Implementation/app/src/main/res/layout/activity_delivery_screen.xml" value="0.55" />
+        <entry key="..\:/Documents/Work/Uni Year 3/AAD/Implementation/app/src/main/res/layout/activity_head_chef_screen.xml" value="0.39739583333333334" />
+        <entry key="..\:/Documents/Work/Uni Year 3/AAD/Implementation/app/src/main/res/layout/activity_hsofficer.xml" value="0.38333333333333336" />
+        <entry key="..\:/Documents/Work/Uni Year 3/AAD/Implementation/app/src/main/res/layout/activity_main.xml" value="0.55" />
+        <entry key="..\:/Documents/Work/Uni Year 3/AAD/Implementation/app/src/main/res/layout/activity_main_screen.xml" value="0.55" />
+        <entry key="..\:/Documents/Work/Uni Year 3/AAD/Implementation/app/src/main/res/layout/activity_manage_stock.xml" value="0.5359375" />
+        <entry key="..\:/Documents/Work/Uni Year 3/AAD/Implementation/app/src/main/res/layout/activity_notifications.xml" value="0.5359375" />
+        <entry key="..\:/Documents/Work/Uni Year 3/AAD/Implementation/app/src/main/res/layout/activity_permissions.xml" value="0.18333333333333332" />
+        <entry key="..\:/Documents/Work/Uni Year 3/AAD/Implementation/app/src/main/res/layout/activity_remove_item.xml" value="0.55" />
+        <entry key="..\:/Documents/Work/Uni Year 3/AAD/Implementation/app/src/main/res/layout/activity_staff_login.xml" value="0.55" />
+        <entry key="..\:/Documents/Work/Uni Year 3/AAD/Implementation/app/src/main/res/layout/activity_sys_admin.xml" value="0.39739583333333334" />
+        <entry key="..\:/Documents/Work/Uni Year 3/AAD/Implementation/app/src/main/res/layout/activity_view_item.xml" value="0.5359375" />
+        <entry key="..\:/Documents/Work/Uni Year 3/AAD/Implementation/app/src/main/res/layout/activity_view_users.xml" value="0.55" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.5359375" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

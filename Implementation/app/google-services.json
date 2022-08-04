@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "48512231923",
+    "firebase_url": "https://fridge-app-9c3d5-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fridge-app-9c3d5",
+    "storage_bucket": "fridge-app-9c3d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48512231923:android:286db8c9c44e90b20c8a86",
+        "android_client_info": {
+          "package_name": "com.aad.implementation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48512231923-54asivo8u3gps0s5o62sbjj1sq6cuqds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2s9pSQALSaDz8sCw_4GxdAlA3irY2AEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48512231923-54asivo8u3gps0s5o62sbjj1sq6cuqds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
