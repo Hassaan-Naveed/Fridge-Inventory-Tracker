@@ -1,3 +1,3 @@
-# NTU Computer Science Year 3
-## Advanced Analysis and Design Coursework
-Fridge Tracker Application
+# Fridge Inventory Tracker
+
+Android application to track fridge inventory in a commercial kitchen scenario in java with firebase backend
